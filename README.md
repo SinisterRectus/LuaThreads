@@ -1,2 +1,2 @@
 # LuaThreads
-Simple coroutine scheduler and event loop for Lua
+Proof of concept coroutine scheduler and event loop for Lua
